@@ -1,26 +1,26 @@
-,app favorita,cuantas apps tenes descargadas (aprox),la que tiene mayor tiempo de uso,una app que no te guste o cambiarias si pudieras,tiempo de uso del celular (x dia) en horas,pagaste por alguna app o dentro de alguna
-Carlos Araujo ,Google Lens,130,Twitter,SUBE,1,Sí
-Ezequiel grinblat ,YouTube ,30,Instagram ,rappi,2,si
-Emi Verdun,Spotify,20,Tik Tok,movistar,3,no
-Iván Mondrzak,YouTube,36,YouTube,Notas,5,No
-Manuel Milde,Twitter,25,Instagram ,Calculadora (iOS),6,si
-Serena Marelli,Twitter,20,Twitter,Mi Personal,2,Si
-Joaquín Schanz,Twitter,25,Tik Tok,Rappi,3,Sí
-Federico Peitti,Discord,89,Whatsapp,El campus,3,si
-Benjamin Toledo,Youtube,30,Whatsapp,Mi Argentina,5,no
-Juan Ignacio Castore,Whatsapp,130,Instagram ,SUBE,2,no
-Nicolas Wolodarsky,Youtube,200,Whatsapp,Whatsapp,3.5,si
-Juana Copello,Todoist,38,Whatsapp,Mi AFIP,2,no
-Valentina Vitetta,Instagram,120,Twitter,PedidosYa,3.5,No
-Tomas Ward,Swiper,150,Whatsapp,Campus Di Tella,4.5,si
-Franco Setti,Twitter,60,Twitter,Campus Di Tella,4,si
-Caterina Villegas,Pinterest,120,Tik Tok,SUBE,4,si
-Estanislao Rios,Twitter,110,Twitter,SUBE,4,si
-María Gimenez,Instagram,70,Whatsapp,Sube ,3.5,si 
-Tadeo Yapoudjian,Clash of Clans,143,Whatsapp,Cuando Subo,6,Si
-Nazaret Seranusoglu,Youtube,52,Tik Tok,Campus Di Tella,4,No
-Gonzalo Garcia Vence,Twitter,50,Twitter,Personal,5,Si
-Valentina Gayo,Spotify,80,Instagram,Calculadora,4,No
-Camilo Suárez,YouTube,30,Instagram,Calculadora ,3,No
-Mariano Sanson,Instagram,90,whatsapp,Mi Personal,4,si
-Isabel Nuñez,Twitter,100,Tiktok,Archivos ,4,No
+nombre,appFav,cantApps,mayorTiempoApp,noApp,tiempoCel,pago,genero
+Carlos Araujo ,Google Lens,130,Twitter,SUBE,1,true,M
+Ezequiel grinblat ,YouTube ,30,Instagram ,rappi,2,true,M
+Emi Verdun,Spotify,20,Tik Tok,movistar,3,false,NB
+Iván Mondrzak,YouTube,36,YouTube,Notas,5,false,M
+Manuel Milde,Twitter,25,Instagram ,Calculadora (iOS),6,true,M
+Serena Marelli,Twitter,20,Twitter,Mi Personal,2,true,F
+Joaquín Schanz,Twitter,25,Tik Tok,Rappi,3,true,M
+Federico Peitti,Discord,89,Whatsapp,El campus,3,true,M
+Benjamin Toledo,Youtube,30,Whatsapp,Mi Argentina,5,false,M
+Juan Ignacio Castore,Whatsapp,130,Instagram ,SUBE,2,false,M
+Nicolas Wolodarsky,Youtube,200,Whatsapp,Whatsapp,3.5,true,M
+Juana Copello,Todoist,38,Whatsapp,Mi AFIP,2,false,F
+Valentina Vitetta,Instagram,120,Twitter,PedidosYa,3.5,false,F
+Tomas Ward,Swiper,150,Whatsapp,Campus Di Tella,4.5,true,M
+Franco Setti,Twitter,60,Twitter,Campus Di Tella,4,true,M
+Caterina Villegas,Pinterest,120,Tik Tok,SUBE,4,true,F
+Estanislao Rios,Twitter,110,Twitter,SUBE,4,true,M
+María Gimenez,Instagram,70,Whatsapp,SUBE ,3.5,true,F
+Tadeo Yapoudjian,Clash of Clans,143,Whatsapp,Cuando Subo,6,true,M
+Nazaret Seranusoglu,Youtube,52,Tik Tok,Campus Di Tella,4,false,M
+Gonzalo Garcia Vence,Twitter,50,Twitter,Personal,5,true,M
+Valentina Gayo,Spotify,80,Instagram,Calculadora,4,false,F
+Camilo Suárez,YouTube,30,Instagram,Calculadora ,3,false,M
+Mariano Sanson,Instagram,90,whatsapp,Mi Personal,4,true,M
+Isabel Nuñez,Twitter,100,Tiktok,Archivos ,4,false,F
