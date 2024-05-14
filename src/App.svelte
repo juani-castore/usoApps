@@ -12,6 +12,7 @@
     import imagen6 from '../public/images/relojC.png';
     import imagen7 from '../public/images/relojR.png';
     import imagen8 from '../public/images/relojV.png';
+    import imagen9 from '../public/images/reloj.png';
     
     // Define una variable para almacenar los valores del bucle
     let valores = [];
@@ -242,7 +243,7 @@ let texto = "Representación de los datos:";
   <div  class="grilla-item"style="display: flex;flex-direction:column;padding:5px;margin-top: 5px">
     <div class="reloj-container" style="width: 100px; height: 100px;">
       <div style="width:100px;height:100px;border: 1px solid black; border-radius: 50%; position:absolute">
-          <img src="public/images/reloj.png" alt="aguja" class="aguja" style="width: 100px; height: 100px; transform: rotate({rotarAguja(valorActual)}deg); position: absolute; top: 0; left: 0; z-index: 1;">
+          <img src={imagen9} alt="aguja" class="aguja" style="width: 100px; height: 100px; transform: rotate({rotarAguja(valorActual)}deg); position: absolute; top: 0; left: 0; z-index: 1;">
           <img src="public/images/lineasReloj3.png" alt="lineas" style="width: 100px; height: 100px; position: absolute; top: 0; left: 0; z-index: 0;">
       </div> 
   </div>
