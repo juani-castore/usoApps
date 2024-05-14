@@ -243,7 +243,7 @@ let texto = "Representación de los datos:";
     <div class="reloj-container" style="width: 100px; height: 100px;">
       <div style="width:100px;height:100px;border: 1px solid black; border-radius: 50%; position:absolute">
           <img src="public/images/reloj.png" alt="aguja" class="aguja" style="width: 100px; height: 100px; transform: rotate({rotarAguja(valorActual)}deg); position: absolute; top: 0; left: 0; z-index: 1;">
-          <img src="images/lineasReloj3.png" alt="lineas" style="width: 100px; height: 100px; position: absolute; top: 0; left: 0; z-index: 0;">
+          <img src="public/images/lineasReloj3.png" alt="lineas" style="width: 100px; height: 100px; position: absolute; top: 0; left: 0; z-index: 0;">
       </div> 
   </div>
   <p class="textito" style= "text-align: center">{valorActual} horas</p>
